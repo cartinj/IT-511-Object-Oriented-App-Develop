@@ -1,0 +1,31 @@
+This week's assignments were:
+
+User Defined Methods:
+"You will create the ShoutBox class for your Virtual World. 
+Your ShoutBox class will have a shoutOutCannedMessage() method that returns a String type. 
+The shoutOutCannedMessage will use an Array or an ArrayList to store 10 messages of type String. 
+For those of you that are more advanced with your Java skills, you could use a HashMap for the data structure. 
+You can load this data structure with 10 messages of your choosing. For example, one message could be “I need Java!” 
+You can initialize your Array or ArrayList with the messages or have the user enter the messages. The choice is yours. 
+The shoutOutCannedMessage() will loop through the data structure to first display all canned messages and allow the user to select one. 
+The shoutOutCannedMessage() will return the selected message String"
+
+&&
+
+Programmer-Defined Class:
+"7-2 Final Project Milestone Three: Programmer-Defined Class
+You will create a Virtual World application as your final project. 
+This Virtual World will have several objects including a MyClone object and another object of your choice. 
+It would be an excellent idea to review the Final Project Guidelines at this time. 
+For this Third Final Project Milestone, you will finish development of your MyClone class and create another class of your choice.
+In Module Two, you started development of the MyClone class. 
+You will continue to develop the MyClone class by adding accessor methods, mutator methoda, and an introduction() method. 
+The introduction() method will introduce yourself to the virtual world by displaying a greeting, your first and last name, 
+and anything else you would want to say. 
+
+You will also create another class of your choice. 
+Your programmer-defined class should have at a minimum two instance variables and one method. 
+The instance variables and method should be representative of the data and behavior that objects of this class will have. 
+You will demonstrate your understanding of encapsulation by declaring the instance varibales as private and by 
+creating accessors and mutatora for each instance variable. 
+You should have at least one constructor created that initializes all instance variables. Document your code. "
