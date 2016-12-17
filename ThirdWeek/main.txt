@@ -1,0 +1,19 @@
+There were two assignments this week:
+
+Loops:
+"You will write a short Java application that uses a loop control structure. 
+Use the Scanner class to accept a number between 1 and 10 from the user. 
+While the number entered is not between 1 and 10 (inclusive), an error message will be displayed 
+“The number entered was not between 1 and 10!” and the program will loop back to prompt the user for another number. 
+If the number entered is between 1 and 10 (inclusive), the application will display a message 
+“Good job! The number you entered is ” and the program will end.
+Do not use a break statement in your program."
+
+&&
+
+Using Strings:
+"You will write a short Java application that will accept five strings from the user. 
+Each String will be a word in a sentence. 
+The first word will be a subject, the second word will be a verb, the third word will be an adjective, 
+the fourth word will be an object, and the fifth word will be an adverb. 
+After all five words are entered, display the sentence using the following form: Subject - Verb - Adjective - Object - Adverb."
