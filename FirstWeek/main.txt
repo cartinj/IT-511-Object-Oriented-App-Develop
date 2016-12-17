@@ -1,0 +1,5 @@
+The assignment this week was:
+
+"Submit a first version of your MyClone class. Your MyClone class should have instance variables firstName and lastName. 
+The firstName and lastName instance variables will hold your first and last names. 
+You will demonstrate your understanding of encapsulation by using the private specifier to restrict access to your insatnce variables."
