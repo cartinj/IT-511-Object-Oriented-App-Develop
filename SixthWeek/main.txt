@@ -1,0 +1,32 @@
+Our assignments this week were:
+
+Word Up:
+"Write a short Java application that stores words in an Array or ArrayList. You get to pick the number of words to store. 
+Generate a random number between 0 (inclusive) and the length of the Array or ArrayList (exclusive). 
+Use this random number as an index into the Array or ArrayList. Display the value stored at the index."
+
+&&
+
+ShoutBox Class With Methods:
+"You will create the ShoutBox class for your Virtual World. Your ShoutBox class will have two methods: 
+
+Method shoutOutCannedMessage() will return type String. 
+The shoutOutCannedMessage will use an Array or an ArrayList to store 10 messages of type String. 
+For those of you who are more advanced with your Java skills, you could use a HashMap for the data structure. 
+You can load this data structure with 10 messages of your choosing. 
+You can initialize your Array or ArrayList with the messages or have the user enter the messages. 
+The choice is yours. shoutOutCannedMessage() will loop through the data structure to first display all canned messages 
+and allow the user to select one. The shoutOutCannedMessage() will return the selected message String. 
+
+The shoutOutRandomMessage() method will return type String. 
+
+The shoutOutRandomMessage() will use several Arrays or an ArrayList to store words. 
+You will have one data structure that holds a list of words that are subjects, another data structure that holds a list of
+words that are objects, another that holds a list of verbs, another that holds a list of adverbs, and another that holds a 
+list of adjectives. You can initialize your data structures with words or have the user enter the words. The choice is yours. 
+
+The shoutOutRandomMessage() method will use a random number generator that selects one word from each data structure to 
+form a random message. 
+The shoutOutRandomMessage() method will return the random message as a String data type. 
+Random messages will be of the form: Subject - Verb - Adjective - Object - Adverb. 
+Document your shoutOutRandomMessage() method to explain the code."
