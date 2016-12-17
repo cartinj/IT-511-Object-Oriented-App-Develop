@@ -1,0 +1,8 @@
+This week's homework was a part of our bigger final project.
+
+Message Array:
+"Write an application that uses an Array to store 10 messages of type String. 
+You can load this data structure with 10 messages of your choosing. 
+For example a message could be “I love Java the programming language!” or another message could be 
+“I love Java the drink!” You can initialize your Array with the messages or have the user enter the messages. The choice is yours. 
+Once your Array is loaded with 10 messages, use a loop to iterate through your entire list and display each message."
