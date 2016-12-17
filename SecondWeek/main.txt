@@ -1,0 +1,16 @@
+There were two assignments this week:
+
+Input and Output
+"Write a short Java application that uses the Scanner class to accept the first name and last name from the user. 
+Your application will use the print() or println() method to display a message that greets the user. 
+Example: “Hello Jane Coder!” Take a screenshot to verify that your message is displayed successfully. 
+Cut and paste the screenshot into a Word document and attach this document to your submission."
+
+&&
+
+A Fork in the Code
+"Write a short Java application that uses the Scanner class to accept a number between 1 and 10 from the user. 
+If the number entered is between 1 and 10 (inclusive), the application will display a message “Good job! The number you entered is .” 
+If the number entered was not between 1 and 10 (inclusive), an error message will be displayed, 
+“The number entered was not between 1 and 10!” Take a screenshot to verify that your message is displayed successfully.
+Cut and paste the screenshot into a Word document and attach this document to your submission."
